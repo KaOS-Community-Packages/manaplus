@@ -5,9 +5,10 @@ pkgdesc="The Mana World (TMW) is a serious effort to create an innovative free a
 arch=('x86_64')
 url="http://themanaworld.org"
 license=('GPL')
-depends=('glu' 'curl' 'guichan' 'sdl_image' 'libgl' 'libxml2' 'physfs'
-	 'sdl_mixer' 'sdl_net' 'sdl_gfx' 'sdl1_ttf')
-makedepends=('cmake' 'mesa')
+depends=( 'glu' 'curl' 'libgl' 'libxml2' 'physfs' 'zlib'
+          'sdl' 'sdl_mixer' 'sdl1_ttf' 'sdl_image' 'sdl_net' )
+makedepends=('mesa')
+optdepends=('xsel')
 #source=(http://downloads.sourceforge.net/sourceforge/themanaworld/$pkgname-$pkgver.tar.bz2)
 source=(https://github.com/ManaPlus/ManaPlus/archive/v$pkgver.tar.gz)
 md5sums=('27555e5aa7797911de0c24d2fd97d587')
