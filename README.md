@@ -3,7 +3,6 @@ manaplus
 
 Description:
 Advanced client for The Mana World and Evol Online (Mirror)
-Advanced client for The Mana World and Evol Online (Mirror)
 
 http://manaplus.evolonline.org/
 
