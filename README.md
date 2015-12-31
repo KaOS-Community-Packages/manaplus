@@ -1,10 +1,11 @@
-tmw
-===
+manaplus
+========
 
 Description:
-The Mana World (TMW) is a serious effort to create an innovative free and open source MMORPG.
+Advanced client for The Mana World and Evol Online (Mirror)
+Advanced client for The Mana World and Evol Online (Mirror)
 
-https://www.themanaworld.org/
+http://manaplus.evolonline.org/
 
 Needed packages from KCP:
 * [sdl_gfx](https://github.com/KaOS-Community-Packages/sdl_gfx)
