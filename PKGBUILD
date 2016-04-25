@@ -1,5 +1,5 @@
 pkgname=manaplus
-pkgver=1.6.1.2
+pkgver=1.6.4.9
 pkgrel=1
 pkgdesc="Advanced client for The Mana World and Evol Online (Mirror)"
 arch=('x86_64')
@@ -10,7 +10,7 @@ depends=( 'glu' 'curl' 'libgl' 'libxml2' 'physfs' 'zlib'
 makedepends=('mesa')
 optdepends=('xsel')
 source=(https://github.com/ManaPlus/ManaPlus/archive/v$pkgver.tar.gz)
-md5sums=('4021cc38334483ab59b3112d327ef778')
+md5sums=('88a25d7cf442699ad2dc79039eeb54c2')
 
 build() {
     cd $srcdir/ManaPlus-${pkgver}
