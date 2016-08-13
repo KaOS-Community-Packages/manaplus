@@ -27,4 +27,4 @@ ManaPlus supports tmwAthena, evol, hercules.
 ```
 
 ### Screenshot:
-[manaplus](http://wiki.evolonline.org/_media/artis3.png)
+![Screenshot](http://wiki.evolonline.org/_media/artis3.png)
